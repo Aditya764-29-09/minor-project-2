@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/minorproject2/app/src/main/res/drawable-nodpi/__bg__launch_screen_ek2_shape.xml" value="0.1" />
+        <entry key="..\:/minorproject2/app/src/main/res/layout/launch_screen.xml" value="0.17552083333333332" />
+        <entry key="..\:/minorproject2/app/src/main/res/layout/launch_screen_2_.xml" value="0.17552083333333332" />
+        <entry key="..\:/minorproject2/app/src/main/res/layout/menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/minorproject2/app/src/main/res/layout/mr_x.xml" value="0.17552083333333332" />
+        <entry key="..\:/minorproject2/app/src/main/res/layout/opening_page.xml" value="0.17552083333333332" />
+        <entry key="..\:/minorproject2/app/src/main/res/layout/the_talent.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

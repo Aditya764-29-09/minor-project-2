@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- launch_screen strings -->
+
+	<string name="app_name">Design</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="mr__x_welcomes_you_to_the_community__string">Mr. X welcomes you to the community.</string>
+	<string name="faqs_ek1_string">FAQS</string>
+	<string name="mr_x_ek1_string">Mr.X</string>
+	<string name="your_safe_space_ek1_string">Your safe space</string>
+	<string name="the_brains_ek1_string">The Brains</string>
+	<string name="talent_hub_string">Talent Hub</string>
+	<string name="mr_x_ek6_string">Mr.X</string>
+	<string name="talent_hub_ek1_string">Talent Hub</string>
+	<string name="artists_string">Artists</string>
+	<string name="poets_string">Poets</string>
+	<string name="musicians_string">Musicians</string>
+	<string name="dancers_string">Dancers</string>
+	<string name="talent_hub_ek2_string">Talent Hub</string>
+	<string name="artists_ek1_string">Artists</string>
+	<string name="musicians_ek1_string">Musicians</string>
+	<string name="dancers_ek1_string">Dancers</string>
+</resources>
